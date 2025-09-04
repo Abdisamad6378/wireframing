@@ -137,7 +137,8 @@ Vast Plugin Ecosystem: The Figma community has built plugins for everything, inc
 In summary, Figma's combination of powerful features, seamless collaboration, and a free-to-start model makes it an exceptional choice for creating everything from quick low-fidelity sketches to detailed, interactive high-fidelity wireframes.
 
 
-Benefits of Wireframing: A Development Perspective
+Benefits of Wireframing: A Development Perspective.
+
 While wireframing is often seen as a design task, it provides immense value to the entire software development lifecycle. It acts as a critical communication tool and a blueprint that guides the team from concept to code.
 
 1. Establishes a Clear Blueprint and Guides Development
