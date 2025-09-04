@@ -51,3 +51,49 @@ A drop-down menu for filtering by category.
 A button labeled "Search".
 
 An annotation might note: "Clicking 'Search' displays results on a new page below the hero section."
+
+Types of Wireframes.
+
+Types of Wireframes
+Wireframes can be categorized based on their level of detail and functionality, typically falling into two main types: low-fidelity and high-fidelity.
+
+Low-Fidelity (Lo-Fi) Wireframes
+Description: Low-fidelity wireframes are basic, schematic representations of a page's layout. They are created quickly using simple shapes, placeholders, and minimal detail. They often resemble a rough sketch and focus purely on structure, hierarchy, and content placement without any visual design.
+
+Visuals: Simple boxes, lines, Latin placeholder text (Lorem Ipsum), and "X"s or squiggles to denote images.
+
+Interactivity: Static images; interactivity is described through annotations or notes.
+
+When They Are Used: Lo-Fi wireframes are used early in the design process, during the ideation and conceptualization phase. Their primary purpose is to:
+
+Facilitate rapid brainstorming and exploration of different layout ideas.
+
+Communicate core concepts and structure to stakeholders without getting distracted by colors or fonts.
+
+Validate the information architecture and user flow inexpensively before committing to a detailed design.
+
+High-Fidelity (Hi-Fi) Wireframes
+Description: High-fidelity wireframes are more detailed and polished. They provide a realistic representation of the final layout, incorporating actual content, precise spacing, and sometimes even functional interactions.
+
+Visuals: More accurate text (real headings, button labels), specific image dimensions, defined grid systems, and potentially real navigation elements. They may use shades of grey to indicate visual weight.
+
+Interactivity: Can be static but are often created in interactive prototypes where buttons can be clicked to navigate between screens, simulating the real user experience.
+
+When They Are Used: Hi-Fi wireframes are used later in the design process, after the overall structure has been validated with Lo-Fi versions. Their purpose is to:
+
+Refine the user interface with precise layout and detail.
+
+Conduct more accurate usability testing with a prototype that closely mimics the final product.
+
+Provide a clear, detailed guide for visual designers and developers to begin their work.
+
+Type of Wireframe in this Project
+The wireframe descriptions provided for the Booking Management System (e.g., for the Customer Homepage and Booking Flow) are low-fidelity (Lo-Fi) wireframes.
+
+This is the appropriate starting point for this phase of the project (Requirement Analysis) because:
+
+The focus is on establishing the basic layout structure, content blocks, and user flow without the cost or time investment of creating high-fidelity mockups.
+
+The goal is to quickly visualize and communicate the core concept and functional components (like a search bar, service list, and booking form) to ensure all stakeholders agree on the fundamental structure before proceeding to detailed visual design and development.
+
+They allow for rapid iteration and feedback on the overall concept, which is essential in the early stages of a project.
